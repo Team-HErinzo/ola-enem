@@ -14,7 +14,12 @@
 
 .terceiro-conteudo{
     display: flex;
+    text-align: center;
     background-color: brown;
+}
+
+.texto3{
+    text-align: justify;
 }
 
 .quarto-conteudo{
