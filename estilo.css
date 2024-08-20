@@ -4,16 +4,20 @@
 
 .primeiro-conteudo{
     display: flex;
+    background-color: blue;
 }
 
 .segundo-conteudo{
     display: flex;
+    background-color: blueviolet;
 }
 
 .terceiro-conteudo{
     display: flex;
+    background-color: brown;
 }
 
 .quarto-conteudo{
     display: flex;
+    background-color: red;
 }
