@@ -1,8 +1,9 @@
 .cabecalho{
     background-color: white;
+    display: flex;
 }
 
-.primeiro-conteudo{
+.texto1{
     display: flex;
     background-color: white;
 }
