@@ -1,21 +1,21 @@
 .cabecalho{
-    background-color: aqua;
+    background-color: white;
 }
 
 .primeiro-conteudo{
     display: flex;
-    background-color: blue;
+    background-color: white;
 }
 
 .segundo-conteudo{
     display: flex;
-    background-color: blueviolet;
+    background-color: white;
 }
 
 .terceiro-conteudo{
     display: flex;
     text-align: center;
-    background-color: brown;
+    background-color: white;
 }
 
 .texto3{
