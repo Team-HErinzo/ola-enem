@@ -9,9 +9,8 @@ body{
     display: flex;
 }
 
-.primeiro-conteudo{
-    display: flex;
-    display: block;
+conteudo{
+    display: inline-block;
 }
 
 .texto1{
