@@ -8,9 +8,8 @@ body{
     display: flex;
 }
 
-div.primeiro-conteudo{
-    width: 600px;
-    display: inline-block;
+.primeiro-conteudo{
+    display: flex;
 }
 
 .texto1{
