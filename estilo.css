@@ -9,7 +9,7 @@ body{
     display: flex;
 }
 
-div conteudo{
+div.primeiro-conteudo{
     width: 600px;
     display: inline-block;
 }
