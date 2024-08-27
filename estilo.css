@@ -41,6 +41,7 @@ conteudo{
 div {
     width: 100px;
     height: 100px;
+    display: inline-block;
 }
 #div1 {
     background-color: magenta;    
