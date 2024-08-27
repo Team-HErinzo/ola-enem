@@ -37,3 +37,14 @@ conteudo{
     display: flex;
     background-color: white;
 }
+
+div {
+    width: 100px;
+    height: 100px;
+}
+#div1 {
+    background-color: magenta;    
+}
+#div2 {
+    background-color: teal;
+}
