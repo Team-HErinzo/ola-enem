@@ -10,6 +10,7 @@ body{
 
 .primeiro-conteudo{
     display: flex;
+    font-size: large;
 }
 
 .texto1{
