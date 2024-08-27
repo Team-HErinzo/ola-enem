@@ -38,5 +38,5 @@ body{
 }
 
 .quinto-conteudo{
-    display: contents;
+    text-align: justify;
 }
