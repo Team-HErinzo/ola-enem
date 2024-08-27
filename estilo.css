@@ -30,7 +30,7 @@ body{
 }
 
 .texto3{
-    text-align: justify;
+    text-align: right;
 }
 
 .quarto-conteudo{
@@ -39,5 +39,5 @@ body{
 }
 
 .quinto-conteudo{
-    text-align: justify;
+    text-align: center;
 }
