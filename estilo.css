@@ -1,6 +1,6 @@
 body{
     color: blue;
-    max-width: 750px;
+    max-width: 1100px;
 }
 
 
@@ -10,7 +10,7 @@ body{
 }
 
 .primeiro-conteudo{
-    max-width: 600px;
+    display: flex;
 }
 
 .texto1{
