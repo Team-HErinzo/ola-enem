@@ -10,11 +10,11 @@ body{
 
 .primeiro-conteudo{
     display: flex;
-    font-size: large;
+
 }
 
 .texto1{
-    background-color: white;
+    display: block;
 }
 
 .segundo-conteudo{
