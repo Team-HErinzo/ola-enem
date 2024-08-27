@@ -8,6 +8,10 @@ body{
     display: flex;
 }
 
+.primeiro-conteudo{
+    max-width: 150px;
+}
+
 .texto1{
     background-color: white;
 }
