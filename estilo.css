@@ -9,7 +9,7 @@ body{
     display: flex;
 }
 
-conteudo{
+div.conteudo{
     width: 600px;
     display: inline-block;
 }
@@ -38,14 +38,3 @@ conteudo{
     background-color: white;
 }
 
-div {
-    width: 100px;
-    height: 100px;
-    display: inline-block;
-}
-#div1 {
-    background-color: magenta;    
-}
-#div2 {
-    background-color: teal;
-}
