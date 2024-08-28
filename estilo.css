@@ -12,11 +12,6 @@ img {
     
 }
 
-.primeiro-conteudo{
-    
-
-}
-
 .texto1{
     display: block;
 }
@@ -27,6 +22,7 @@ img {
 }
 
 .terceiro-conteudo{
+    display: flex;
     text-align: center;
     background-color: white;
 }
@@ -36,7 +32,6 @@ img {
 }
 
 .quarto-conteudo{
-    display: flex;
     background-color: white;
 }
 
