@@ -4,6 +4,7 @@ body{
 }
 
 .cabecalho{
+    text-align: center;
     background-image: url("./ENEM imagens/ENEM.png");
     background-size: auto;
     height: 300px;
