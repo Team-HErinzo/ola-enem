@@ -17,7 +17,6 @@ img {
 }
 
 .segundo-conteudo{
-    display: flex;
     background-color: white;
 }
 
@@ -32,6 +31,7 @@ img {
 }
 
 .quarto-conteudo{
+    display: flex;
     background-color: white;
 }
 
