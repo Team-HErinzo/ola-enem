@@ -1,5 +1,6 @@
 body{
     color: blue;
+    text-align: justify;
 }
 
 img {
@@ -8,7 +9,7 @@ img {
 }
 
 .cabecalho{
-    background-image: url("./ENEM\ imagens/");
+    background-image: url("./ENEM imagens/ENEM.png");
     background-color: white;
     
 }
@@ -22,7 +23,6 @@ img {
 }
 
 .terceiro-conteudo{
-    display: flex;
     text-align: center;
     background-color: white;
 }
@@ -32,7 +32,6 @@ img {
 }
 
 .quarto-conteudo{
-    display: flex;
     background-color: white;
 }
 
