@@ -5,8 +5,8 @@ body{
 
 .cabecalho{
     background-image: url("./ENEM imagens/ENEM.png");
-    height: 900px;
-    
+    height: 300px;
+    width: 90px;
 }
 
 .texto1{
