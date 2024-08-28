@@ -3,8 +3,8 @@ body{
 }
 
 img {
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
 }
 
 .cabecalho{
@@ -27,7 +27,6 @@ img {
 }
 
 .terceiro-conteudo{
-    display: flex;
     text-align: center;
     background-color: white;
 }
