@@ -3,11 +3,6 @@ body{
     text-align: justify;
 }
 
-img {
-    width: 500px;
-    height: 500px;
-}
-
 .cabecalho{
     background-image: url("./ENEM imagens/ENEM.png");
     background-color: white;
