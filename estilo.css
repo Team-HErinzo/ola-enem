@@ -1,13 +1,14 @@
 body{
     color: blue;
+    text-align: center;
 }
 
 .cabecalho{
-    text-align: center;
+    text-align: left;
     background-image: url("./ENEM imagens/ENEM.png");
     background-size: auto;
     height: 300px;
-    width: 700px;
+    width: 600px;
 }
 
 .texto1{
