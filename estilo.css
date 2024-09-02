@@ -9,7 +9,7 @@ div {
 }
 
 img {
-    max-width: 100%;
+    max-width: auto;
 }
 
 .cabecalho{
@@ -30,10 +30,6 @@ img {
 
 .segundo-conteudo{
     background-color: white;   
-}
-
-.terceiro-conteudo{
-    border: 4px solid gray;
 }
 
 .quarto-conteudo{
