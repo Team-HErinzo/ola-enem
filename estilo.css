@@ -22,16 +22,12 @@ body{
 
 .terceiro-conteudo{
     text-align: center;
-    color: white;
-    background-color: blue;
-}
-
-.texto3{
-    text-align: right;
+    
 }
 
 .quarto-conteudo{
-    background-color: white;
+    color: white;
+    background-color: blue;
 }
 
 .quinto-conteudo{
