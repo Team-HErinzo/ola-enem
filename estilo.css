@@ -2,7 +2,7 @@ body{
     color: blue;
     text-align: center;
     border: 30px;
-    width: 600px;
+    width: 550px;
 }
 
 .cabecalho{
@@ -17,8 +17,12 @@ body{
     display: block;
 }
 
+.primeiro-conteudo{
+    width: 500px;
+}
+
 .segundo-conteudo{
-    background-color: white;
+    border-radius: 100px;
 }
 
 .terceiro-conteudo{
