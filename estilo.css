@@ -1,6 +1,11 @@
 body{
     color: blue;
     width: 600px;
+    padding: 10px;
+}
+
+div {
+    border: 8px solid red;   
 }
 
 .cabecalho{
