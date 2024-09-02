@@ -2,7 +2,7 @@ body{
     color: blue;
     text-align: center;
     border: 30px;
-    width: 550px;
+    width: 600px;
 }
 
 .cabecalho{
@@ -10,11 +10,6 @@ body{
     background-image: url("./ENEM imagens/ENEM.png");
     background-size: auto;
     height: 300px;
-    width: 600px;
-}
-
-.texto1{
-    display: block;
 }
 
 .primeiro-conteudo{
@@ -27,7 +22,8 @@ body{
 
 .terceiro-conteudo{
     text-align: center;
-    background-color: white;
+    color: white;
+    background-color: blue;
 }
 
 .texto3{
