@@ -2,15 +2,13 @@ body{
     color: rgb(22, 22, 172);
     width: 600px;
     text-align: center;
+    font-size: 5px;
 }
 
 div {
     padding: 10px; 
 }
 
-img {
-    width: 100%;
-}
 
 .cabecalho{
     display: flex;
