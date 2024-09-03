@@ -18,10 +18,11 @@ img {
     align-items: flex-start; 
     justify-content: center; 
     background-image: url("./ENEM imagens/ENEM.png");
-    background-size: auto;
+    background-size: contain;
     height: 300px;
     text-align: right;
     margin: 0;
+    background-repeat: no-repeat;
 }
 
 .primeiro-conteudo{
